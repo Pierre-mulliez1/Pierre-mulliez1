@@ -1,2 +1,9 @@
 name: Quality checks
 on: push 
+jobs: 
+  check_name: 
+    name: checks that name is present in readme
+    run-on: unbuntu-latest
+    steps: 
+      - uses: action/checkout@v2
+      - run: grep "Pierre Mulliez" README.md
