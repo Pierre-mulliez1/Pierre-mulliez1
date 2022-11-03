@@ -1,5 +1,9 @@
 ### Hi there 👋
 <h2 style = "color: green"> Welcome to Pierre's Github ! </h2>
+<p style = 'color: blue;'> Find Machine learning, data manipulation and websites projects </p>
+<br> 
+<br>
+<p> Feel free to reach out through my <a href = "https://www.linkedin.com/in/pierre-mulliez/"> Linkedin </a>  account </p>
 <!--
 **Pierre-mulliez1/Pierre-mulliez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
