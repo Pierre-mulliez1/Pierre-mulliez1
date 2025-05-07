@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 <h2> Welcome to Pierre's Github ! </h2>
 <p> Find Machine learning, data manipulation and website projects </p>
 <br> 
@@ -6,20 +6,5 @@
 <p> Feel free to reach out through my <a href = "https://www.linkedin.com/in/pierre-mulliez/"> Linkedin </a>  account </p>
 
 <h4> Data Project Manager @Devoteam Marseille</h4>
-![devoteam logo](https://github.com/user-attachments/assets/b8e07a7c-35af-4070-84a0-c03b84024450)
+<img src="devoteam logo.png" alt="Devoteam Logo" width="250" height="250">  
 <p> check out more -> <a href = "https://www.devoteam.com/services/data/"> company website </a></p>
-<!--
-**Pierre-mulliez1/Pierre-mulliez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
