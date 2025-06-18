@@ -24,6 +24,6 @@ Feel free to dive into my repositories to see what I'm working on!
 
 ### Current Role
 <h4>Data Product Owner @ <a href="https://www.devoteam.com/" target="_blank">Devoteam Marseille</a></h4>
-<a href="https://www.devoteam.com/" target="_blank"><img src="devoteam-logo.png" alt="Devoteam Logo" width="120"></a>
+<a href="https://www.devoteam.com/" target="_blank"><img src="devoteam_logo.png" alt="Devoteam Logo" width="120"></a>
 <p>At Devoteam, I focus on delivering innovative data solutions and driving impactful projects for our clients.</p>
 <p>Learn more about our services: <a href="https://www.devoteam.com/services/data/" target="_blank">Devoteam Data Services</a></p>
