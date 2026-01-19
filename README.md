@@ -9,7 +9,7 @@ Amongst others find projects related to:
   <li><a href="https://github.com/Pierre-mulliez1/streamlit_audit"> GenAI</a></li>
   <li><a href="https://github.com/Pierre-mulliez1/Spark_spotify_playlists"> Data Manipulation & Analytics</a></li>
   <li><a href="https://github.com/Pierre-mulliez1/Capwater2022"> Data engineering </a></li>
-  <li><a href="https://github.com/Pierre-mulliez1/cabinetdentairepontdelarc.github.io"> Web Development, ental cabinet </a></li>
+  <li><a href="https://github.com/Pierre-mulliez1/cabinetdentairepontdelarc.github.io"> Web Development </a></li>
 </ul>
 Feel free to dive into my repositories to see what I'm working on!
 
